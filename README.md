@@ -1,4 +1,12 @@
 ### Hi there 👋
+## I am Islam Ahmed, an Artificial Intelligence Engineer and a lover of programming since childhood
+I did many projects in the mobile application industry using Kotlin and Flutter, and then I studied Data Science, and then I delved into artificial intelligence while continuing with these previous tools until now.
+
+<a href="https://app.daily.dev/E1250"><img src="https://api.daily.dev/devcards/3add9b1f738f47cc8d170504884f05e1.png?r=5cg" width="400" alt="Eslam Ahmed's Dev Card"/></a>
+
+
+
+
 
 <!--
 **E1250/E1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

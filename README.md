@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam Ahmed</h1>
 <h3 align="center">Artificial Intelligence Engineer and a lover of programming since childhood</h3>
+<h4 align="center">IF IN DOUBT, CODE IT OUT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e1250&label=Profile%20views&color=0e75b6&style=flat" alt="e1250" /> </p>
 

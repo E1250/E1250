@@ -1,0 +1,437 @@
+{
+    "basics": {
+        "name": "Islam Ahmed Mohamed   ",
+        "email": "eslam760000@gmail.com",
+        "phone": "+2 01003075911",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "rounded-square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "I am a passionate programmer with a love for **Artificial intelligence**. I have been coding since I was 12 years old, when I started learning C. I quickly moved on to Python, and I have been developing applications in both languages ever since.I love the challenge of solving problems with code, and I am always looking for new ways to use my skills to create something new and innovative. I am also passionate about using technology to make a positive impact on the world.I am currently studying artificial intelligence at Zagazig University in Egypt. I am excited to learn more about this field and how I can use it to create new and amazing products and services.I am a hard worker and I am always willing to learn new things. I am also a team player and I am always willing to help others.I am excited to see what the future holds for me, and I am confident that I can make a positive impact on the world with my skills and passion.",
+        "website": "https://e1250.github.io/",
+        "headline": "AI Engineer & Flutter Developer",
+        "location": {
+            "city": "Zagazig",
+            "region": "",
+            "address": "",
+            "country": "Egypt",
+            "postalCode": ""
+        },
+        "profiles": [
+            {
+                "id": "9699d500-ec71-4e23-9ac2-0aedb60e31a9",
+                "url": "https://www.linkedin.com/in/e1250/",
+                "network": "LinkedIn",
+                "username": "E1250"
+            },
+            {
+                "id": "2e6a3e9c-f66d-4256-9688-c4c6d72b69f5",
+                "url": "https://github.com/E1250",
+                "network": "Github",
+                "username": "E1250"
+            },
+            {
+                "id": "64f99dfb-26e1-41c7-b1a2-ea3c0b4974f2",
+                "url": "https://leetcode.com/eslam1250/",
+                "network": "Leetcode",
+                "username": "Eslam1250"
+            },
+            {
+                "id": "56fb3ba8-f7a5-49fc-a6d1-6077f28ad211",
+                "url": "https://medium.com/@e1250",
+                "network": "Medium",
+                "username": "E1250"
+            },
+            {
+                "id": "d4beded2-9673-4828-b6de-cb23d400e0e4",
+                "url": "https://www.kaggle.com/eslam200",
+                "network": "Kaggle",
+                "username": "Kaggle - Eslam200"
+            },
+            {
+                "id": "9cca821a-ff87-4211-9bd3-f02c5309d667",
+                "url": "https://huggingface.co/e1250",
+                "network": "Hugging Face",
+                "username": "Hugging Face - E1250"
+            },
+            {
+                "id": "55070c9e-0ac3-49dd-bf96-18ebfb4e0d78",
+                "url": "https://hashnode.com/@E1250",
+                "network": "Hashnode",
+                "username": "Hashnode - E1250"
+            }
+        ],
+        "birthdate": "2002-06-24"
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "22a3320e-9add-468d-9386-a25a9accc6a8",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": "2020-01-01"
+                    },
+                    "name": "Microbot Studio",
+                    "summary": "[Play Store](https://play.google.com/store/apps/dev?id=5588517618589064307)",
+                    "position": "Founder"
+                },
+                {
+                    "id": "2e410697-5cca-4318-910e-23f9bdf9eaf3",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "UpWork",
+                    "summary": "",
+                    "position": "Freelancer"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 3,
+            "visible": false
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "7fe87b11-faed-428f-b501-6f2c8a0df389",
+                    "name": "Flutter",
+                    "level": "",
+                    "keywords": [
+                        "Dart",
+                        "In-App-Purchase",
+                        "MVVM",
+                        "MVC",
+                        "Firebase",
+                        "SQLite",
+                        "In-App-Notifications",
+                        "GetX",
+                        "BloC"
+                    ],
+                    "levelNum": 0
+                },
+                {
+                    "id": "c3a53ea0-ad29-4a04-9f2c-8274e402677f",
+                    "name": "Machin Learning",
+                    "level": "",
+                    "keywords": [
+                        "Supervised Learning",
+                        "UnSupervised Learning",
+                        "Semi-Supervised Learning",
+                        "Reinforcement Learning"
+                    ],
+                    "levelNum": 0
+                },
+                {
+                    "id": "b88eed91-7b00-4dfa-a58f-15a8fafbf468",
+                    "name": "Deep Learning ( PyTorch )",
+                    "level": "",
+                    "keywords": [
+                        "CV",
+                        "NLP",
+                        "GBMs",
+                        "CNN",
+                        "RNN",
+                        "LSTM",
+                        "LLM",
+                        "GANs"
+                    ],
+                    "levelNum": 0
+                },
+                {
+                    "id": "b7ef595e-312e-4883-b52d-6f32dd60a056",
+                    "name": "Data Analysis",
+                    "level": "",
+                    "keywords": [
+                        "Web Scraping",
+                        "Hypothesis Testing",
+                        "Data Visualization"
+                    ],
+                    "levelNum": 0
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "8c1765ce-1fb2-42b1-8ede-f297c8c8cd9b",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Bookshelf",
+                    "summary": "[Google Play Store](https://play.google.com/store/apps/details?id=com.microbot.bookshelf)",
+                    "keywords": [],
+                    "description": "Flutter Bookshelf app for organizing PDF books and making reading easier"
+                },
+                {
+                    "id": "194b54d7-d620-420e-b21c-9791b1591a7d",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": "Tools",
+                    "summary": "[Tools](https://e1250.github.io/tools/)",
+                    "keywords": [],
+                    "description": "Tools Page for many Open Source tools I created because I needed frequently"
+                },
+                {
+                    "id": "8704cf8c-3a6a-4ad6-80b7-ec0ffa831263",
+                    "url": "",
+                    "date": {
+                        "end": "",
+                        "start": ""
+                    },
+                    "name": " Currency Converter & Calculator",
+                    "summary": "[Google Play Store](https://play.google.com/store/apps/details?id=com.microbot.currency)",
+                    "keywords": [],
+                    "description": "Converting Currencies easily with an embedded calculator"
+                }
+            ],
+            "columns": 3,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "3f0eded8-ee1f-4c0e-b4a7-7a0811c150db",
+                    "url": "",
+                    "area": "Artificial Intelligence",
+                    "date": {
+                        "end": "2024-07-01",
+                        "start": "2024-01-05"
+                    },
+                    "score": "",
+                    "degree": "Bachelor of Artificial Intelligence",
+                    "courses": [],
+                    "summary": "",
+                    "institution": "Zagazig University"
+                },
+                {
+                    "id": "1d323d52-09b6-4932-9552-c2f8eefe9fe0",
+                    "url": "",
+                    "area": "Data Analysis",
+                    "date": {
+                        "end": "2022-03-13",
+                        "start": "2022-02-01"
+                    },
+                    "score": "",
+                    "degree": "NanoDegree",
+                    "courses": [],
+                    "summary": "[View](https://confirm.udacity.com/KNZAPPZ9)",
+                    "institution": "Udacity - FWD Advanced Data Analysis"
+                },
+                {
+                    "id": "c3c31c90-7020-46ee-b894-bf73f0a7a5b0",
+                    "url": "",
+                    "area": "Machine Learning",
+                    "date": {
+                        "end": "2023-01-24",
+                        "start": "2022-12-24"
+                    },
+                    "score": "",
+                    "degree": "NanoDegree",
+                    "courses": [],
+                    "summary": "[View](https://www.udemy.com/certificate/UC-8395e9fa-f0b4-45c2-aca9-f9ac8707f7c3/)",
+                    "institution": "Udemy - Machine Learning"
+                }
+            ],
+            "columns": 3,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "a6e119ff-c155-4f24-8408-7a90251dd23d",
+                    "name": "OpenSource Projects",
+                    "keywords": []
+                }
+            ],
+            "columns": 2,
+            "visible": false
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "8ca9a0de-3d49-4559-a81a-16f406cb5030",
+                    "name": "Arabic",
+                    "level": "Native",
+                    "levelNum": 0
+                },
+                {
+                    "id": "dd9eb2b8-2956-463b-b0b1-0ffef84f9fc2",
+                    "name": "English",
+                    "level": "Conversational",
+                    "levelNum": 0
+                },
+                {
+                    "id": "6cf99d85-4efc-4ff8-9a7f-e76abd2d2857",
+                    "name": "German",
+                    "level": "A2 ",
+                    "levelNum": 0
+                },
+                {
+                    "id": "d18c9398-bc78-42b1-ae7d-b5e0f8028fa3",
+                    "name": "Chinese",
+                    "level": "A0",
+                    "levelNum": 0
+                },
+                {
+                    "id": "7808618d-23ad-44a4-9104-b34cc68b2e46",
+                    "name": "Russian",
+                    "level": "A0",
+                    "levelNum": 0
+                },
+                {
+                    "id": "ac239be0-d7b8-41bd-8164-778a794fe86e",
+                    "name": "French",
+                    "level": "A0",
+                    "levelNum": 0
+                },
+                {
+                    "id": "a8db3c90-75be-4b29-94da-81b3d35f6254",
+                    "name": "Spanish",
+                    "level": "A0",
+                    "levelNum": 0
+                }
+            ],
+            "columns": 4,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": false
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "75e56414-3220-442b-bbd7-573df9e67461",
+                    "url": "",
+                    "date": "2022-06-01",
+                    "name": "Python Web Scraping",
+                    "issuer": "Udemy",
+                    "summary": "[view](https://www.udemy.com/certificate/UC-0fb77c26-a224-4450-a45a-bde7a49f0761/)"
+                },
+                {
+                    "id": "dfab3b2f-d8eb-4939-b703-2b6de6639e46",
+                    "url": "",
+                    "date": "2023-03-01",
+                    "name": "Machine Learning ",
+                    "issuer": "1000ML Engineer Initiative",
+                    "summary": "[View](https://1000ml.co.uk/successful)"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "DD MMMM YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#000000",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "projects",
+                    "languages",
+                    "work",
+                    "education"
+                ],
+                [
+                    "publications",
+                    "awards",
+                    "interests",
+                    "volunteer",
+                    "references",
+                    "certifications",
+                    "skills"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "kakuna",
+        "typography": {
+            "size": {
+                "body": 15,
+                "heading": 36
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}

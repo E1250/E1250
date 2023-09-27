@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Islam Ahmed</h1>
 <h3 align="center">Artificial Intelligence Engineer and a lover of programming since childhood</h3>
-<h4 align="center">IF IN DOUBT, CODE IT OUT</h3> @mrdbourke
+<h4 align="center">IF IN DOUBT, CODE IT OUT</h3>
 
 
 # 💫 About Me:
